@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-test file edit
-onemore edit
-=======
-test file
->>>>>>> 9ec4fb5 (memo)
+rkfcl
